@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 
 ### 🌱Interests
 
-[![Jest][jest]][jest-url] [![AWS][aws]][aws-url] [![Docker][docker]][docker-url] [![ReactQuery][reactquery]][reactquery-url]
+[![Jest][jest]][jest-url] [![AWS][aws]][aws-url] [![Docker][docker]][docker-url] [![ReactQuery][reactquery]][reactquery-url] [![Redux][redux]][redux-url]
 
+[redux]: https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white
+[redux-url]: https://ko.redux.js.org/introduction/getting-started/
 [reactquery]: https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white
 [reactquery-url]: https://react-query-v3.tanstack.com/
 [mymail]: https://img.shields.io/badge/dudtod1596@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white
