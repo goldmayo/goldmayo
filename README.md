@@ -17,19 +17,13 @@ Here are some ideas to get you started:
 
 ![MyMail][mymail] [![dudtod1596](http://mazassumnida.wtf/api/mini/generate_badge?boj=dudtod1596)](https://solved.ac/dudtod1596)
 
-프론트엔드 주니어 개발자 현승재입니다.
-
 ### About Me
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldmayo&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dudtod1596)](https://solved.ac/dudtod1596)
 
-### 🛠 Tech Stack
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldmayo&show_icons=true)
+
+### Tech Stack
 
 [![React][react]][react-url] [![Typescript][typescript]][typescript-url] [![Next.js][next.js]][next.js-url] [![Storybook][storybook]][storybook-url] [![Tailwindcss][tailwindcss]][tailwindcss-url]
-
-### 🌱Interests
-
-[![Jest][jest]][jest-url] [![AWS][aws]][aws-url] [![Docker][docker]][docker-url] [![ReactQuery][reactquery]][reactquery-url]
 
 [redux]: https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white
 [redux-url]: https://ko.redux.js.org/introduction/getting-started/
