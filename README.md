@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![MyMail][mymail] [![dudtod1596](http://mazassumnida.wtf/api/mini/generate_badge?boj=dudtod1596)](https://solved.ac/dudtod1596)
 
-### About Me
+### About
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldmayo&show_icons=true)
 
